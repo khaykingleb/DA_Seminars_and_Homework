@@ -1,6 +1,6 @@
 # Машинное обучение I
-* Семинары проведены Евгением Ковалевым: https://github.com/KovalevEvgeny.
-* Лекции прочитаны Евгением Соколовым: https://github.com/esokolov.
+* Семинары проведены [Евгением Ковалевым](https://github.com/KovalevEvgeny).
+* Лекции прочитаны [Евгением Соколовым](https://github.com/esokolov).
 
 ## Исходные репозитории
 * [Машинное обучение I](https://github.com/esokolov/ml-course-hse)

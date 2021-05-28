@@ -1,7 +1,5 @@
 ## Теория вероятностей и математическая статистика
 
-- [My_Scripts](./My_Scripts): скрипты, сделанные мной.
-
 ### Полезные ссылки
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).

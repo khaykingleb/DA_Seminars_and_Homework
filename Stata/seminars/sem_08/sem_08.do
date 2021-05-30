@@ -110,7 +110,7 @@ graph bar tfp if year >= 2009 &	dummy_lpg90 == 1, over(year) ///
 ytitle("%") blabel (bar, position(outside) format(%9.2f)) ylabel(-0.3(0.1)0.3) ///
 title("Average TFP growth rates	(top 10%)",	size(medium))	
 
-graph bar tfp if year>=2009	& dummy_lpg90 == 0, over(year) ///
+graph bar tfp if year >= 2009	& dummy_lpg90 == 0, over(year) ///
 ytitle("%")	blabel (bar, position(outside) format(%9.2f)) ylabel(-0.3(0.1)0.3) ///
 title("Average TFP growth rates	(other)", size(medium))
 

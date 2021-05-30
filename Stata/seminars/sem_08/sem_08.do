@@ -75,11 +75,11 @@ tabstat tfp [w=rva], by(year) statistics(n mean) // значит, крупные
 
 // Графики
 graph bar tfp if year >= 2009, over(year) name(gr1, replace) ///
-ytitle("%")	blabel (bar, position(outside) format(%9.2f)) ///
+ytitle("%") blabel (bar, position(outside) format(%9.2f)) ///
 title("Average TFP growth rates", size(medium))
 
 graph bar tfp[w=rva] if year >= 2009, over(year) name(gr1, replace) ///
-ytitle("%")	blabel (bar, position(outside) format(%9.2f)) ///
+ytitle("%") blabel (bar, position(outside) format(%9.2f)) ///
 title("Average TFP growth rates", size(medium))
 
 * Labor productivity
